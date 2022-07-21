@@ -24,9 +24,13 @@
   }
 .carousel-inner {
 
-    max-height: 58rem;
+    max-height: 52rem;
+    min-height: 15rem;
     
     }
+.gallery {
+  max-height: 100%;
+}
 .img {
     
         max-height: 58px;
